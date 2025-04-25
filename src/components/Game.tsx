@@ -280,11 +280,6 @@ const Game = () => {
   return (
     <div className="container mx-auto px-4 py-6 max-w-5xl">
       <div className="flex flex-col items-center mb-8">
-        <img 
-          src="/logo.png" 
-          alt="Math Battle Logo" 
-          className="w-24 h-24 mb-4"
-        />
         <h1 className="text-4xl font-bold text-center text-blue-600">
           Math Battle
         </h1>
