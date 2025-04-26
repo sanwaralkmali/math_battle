@@ -33,7 +33,9 @@ const generateCards = (): CardContent[] => {
     { type: 'question', value: 'Q6', description: 'Answer question 6 (3 minutes)', timeLimit: 180 },
     { type: 'question', value: 'Q7', description: 'Answer question 7 (3 minutes)', timeLimit: 180 },
     { type: 'question', value: 'Q8', description: 'Answer question 8 (3 minutes)', timeLimit: 180 },
-    
+    { type: 'question', value: 'Q9', description: 'Answer question 9 (3 minutes)', timeLimit: 180 },
+    { type: 'question', value: 'Q10', description: 'Answer question 10 (3 minutes)', timeLimit: 180 },
+
     { type: 'challenge', value: 'Q15', description: 'Challenge Question! (1 minute)', timeLimit: 60 },
     { type: 'challenge', value: 'Q16', description: 'Challenge Question! (1 minute)', timeLimit: 60 },
     
@@ -44,8 +46,6 @@ const generateCards = (): CardContent[] => {
     
     { type: 'steal', value: 'steal', description: 'Steal 1 point from another player!', timeLimit: 0 },
     { type: 'steal', value: 'steal', description: 'Steal 1 point from another player!', timeLimit: 0 },
-    { type: 'swap', value: 'swap', description: 'Swap scores with another player!', timeLimit: 0 },
-    { type: 'extra', value: 'extra', description: 'Flip an extra card!', timeLimit: 0 },
     { type: 'extra', value: 'extra', description: 'Flip an extra card!', timeLimit: 0 },
     { type: 'points', value: '+2', description: 'You get +2 points!', timeLimit: 0 },
   ];
