@@ -1,73 +1,68 @@
-# Welcome to your Lovable project
+# 🎮 Math Battle Game
 
-## Project info
+Welcome to **Math Battle** – a fun, interactive, and educational multiplayer game created to make learning math **exciting for kids**! Designed with love by a passionate teacher, this game brings classroom engagement to a whole new level through competition, collaboration, and critical thinking.
 
-**URL**: https://lovable.dev/projects/f7f76cfc-8214-47ee-89a7-51f6ae870dc7
+## 💡 About the Game
 
-## How can I edit this code?
+Math Battle is a **turn-based, multiplayer game** (2 or 3 players) played on a shared Chromebook or computer. Each player receives a unique PDF with questions and answer keys for their opponent. The goal is simple: **flip cards, solve problems, check answers, and score points!** 🧠✨
 
-There are several ways of editing your application.
+The game is hosted online and accessible via browser — no installations required!
 
-**Use Lovable**
+## 🧩 Game Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f7f76cfc-8214-47ee-89a7-51f6ae870dc7) and start prompting.
+- 🎲 20 face-down cards to flip and reveal challenges.
+- 🕒 Countdown timer per question.
+- 🔁 Bonus cards, challenge rounds, and point swaps!
+- 🔊 Fun animations and sound effects.
+- 🧑‍🤝‍🧑 Perfect for classroom pair work or small groups.
 
-Changes made via Lovable will be committed automatically to this repo.
+## 📖 How to Play
 
-**Use your preferred IDE**
+1. **Partner Up:** Sit with your opponent and get ready!
+2. **PDF Setup:** Each student receives a PDF with _their own questions_ and the _answer key for their opponent’s_ set. Keep it secret!
+3. **Visit the Game Page:**  
+   🔗 [`salahalkmali.github.io/Math_battle`](https://salahalkmali.github.io/Math_battle)
+4. **Flip a Card:** The card reveals a question number. Both players solve the _same_ number from their own PDF.
+5. **Check Answers:** After the timer ends, swap **notebooks (not devices!)** and use your answer key to check your opponent’s work.
+6. **Score Points:** If your opponent answered correctly, press the ➕ next to their name. Otherwise, no points.
+7. **Play Fair & Have Fun!** 🎉
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+> ❗ Players should not swap Chromebooks — use notebooks to prevent cheating.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📦 Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- 🛠️ Built with **React** + **Vite**
+- 🎨 Designed for speed, simplicity, and student-friendliness
+- 🚀 Hosted on **GitHub Pages**
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## ✏️ About the Creator
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+**Salah Alkmali**  
+📚 Math Teacher | 💡 Education Innovator  
+📞 +90 552 471 86 00  
+📧 mtnshsalah@gmail.com  
+🌐 [sanwaralkmali.github.io](https://sanwaralkmali.github.io/)
 
-**Edit a file directly in GitHub**
+My goal is to bring **joy and excitement** to the math classroom. This game is part of my mission to blend learning with fun, curiosity, and friendly competition!
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 📷 Screenshots
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+_(Add screenshots of your interface and gameplay here)_
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🤝 Contributions
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Ideas, improvements, or feedback? Feel free to open a pull request or reach out!
 
-## How can I deploy this project?
+---
 
-Simply open [Lovable](https://lovable.dev/projects/f7f76cfc-8214-47ee-89a7-51f6ae870dc7) and click on Share -> Publish.
+## 📜 License
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+This project is open-source under the MIT License.
