@@ -21,7 +21,7 @@ The game is hosted online and accessible via browser — no installations requir
 1. **Partner Up:** Sit with your opponent and get ready!
 2. **PDF Setup:** Each student receives a PDF with _their own questions_ and the _answer key for their opponent’s_ set. Keep it secret!
 3. **Visit the Game Page:**  
-   🔗 [`salahalkmali.github.io/math_battle`](https://salahalkmali.github.io/math_battle)
+   🔗 [`salahalkmali.github.io/math_battle`](https://sanwaralkmali.github.io/math_battle/)
 4. **Flip a Card:** The card reveals a question number. Both players solve the _same_ number from their own PDF.
 5. **Check Answers:** After the timer ends, swap **notebooks (not devices!)** and use your answer key to check your opponent’s work.
 6. **Score Points:** If your opponent answered correctly, press the ➕ next to their name. Otherwise, no points.
